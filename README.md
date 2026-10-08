@@ -1,6 +1,6 @@
 # Property Graphs as Smart Knowledge Guardians
 
-This repository contains a generic script to detect anomalies in knowledge graphs, as presented in the paper "Property Graphs as Smart Knowledge Guardians". The script is designed to validate our proposed approach for detecting anomalies in knowledge graphs in batch mode.
+This repository contains a generic script to detect anomalies in knowledge graphs, as presented in the paper "Towards Property Graphs as Smart Knowledge Guardians". The script is designed to validate our proposed approach for detecting anomalies in knowledge graphs in batch mode.
 
 ## Repository Structure
 
